@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "683cbb79-eea9-49f1-9a8f-abde7ea23006"
+name: "action-item-extraction"
+display_name: "Action Item Extraction"
+description: "Scans text for actionable commitments and structures them as tasks"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-action-item-extraction"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
