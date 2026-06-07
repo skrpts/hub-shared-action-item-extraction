@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "683cbb79-eea9-49f1-9a8f-abde7ea23006"
+id: "dcfe20e9-e1ed-4fb5-9c57-0b4631b153f0"
 name: "action-item-extraction"
 display_name: "Action Item Extraction"
 description: "Scans text for actionable commitments and structures them as tasks"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
